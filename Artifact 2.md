@@ -2,7 +2,7 @@
 
 ---
 
-## 🔹 1. Basic Add / Commit / Status
+##  1. Basic Add / Commit / Status
 
 ### Commands
 ```bash
@@ -22,7 +22,7 @@ Save your work after making changes.
 
 ---
 
-## 🔹 2. Staging Area
+##  2. Staging Area
 
 ### Commands
 ```bash
@@ -40,7 +40,7 @@ A file can exist in:
 
 ---
 
-## 🔹 3. Branching Basics
+##  3. Branching Basics
 
 ### Commands
 ```bash
@@ -55,7 +55,7 @@ Branches are separate timelines of work.
 
 ---
 
-## 🔹 4. Branch Comparison
+##  4. Branch Comparison
 
 ### Commands
 ```bash
@@ -65,7 +65,7 @@ git diff mybranch master
 
 ---
 
-## 🔹 5. Cherry Pick
+##  5. Cherry Pick
 
 ### Commands
 ```bash
@@ -78,7 +78,7 @@ Copies commits from another branch.
 
 ---
 
-## 🔹 6. Revert (Safe Undo)
+##  6. Revert (Safe Undo)
 
 ### Commands
 ```bash
@@ -91,7 +91,7 @@ Creates a new commit that undoes changes.
 
 ---
 
-## 🔹 7. Reset (Dangerous)
+##  7. Reset (Dangerous)
 
 ### Commands
 ```bash
@@ -99,11 +99,11 @@ git reset --hard HEAD^
 git reset --hard HEAD
 ```
 
-⚠️ Deletes changes permanently.
+Deletes changes permanently.
 
 ---
 
-## 🔹 8. Stash
+##  8. Stash
 
 ### Commands
 ```bash
@@ -119,7 +119,7 @@ Temporarily saves work.
 
 ---
 
-## 🔹 9. Clean
+##  9. Clean
 
 ### Commands
 ```bash
@@ -133,7 +133,7 @@ Deletes untracked files.
 
 ---
 
-## 🔹 10. Logs
+##  10. Logs
 
 ### Commands
 ```bash
@@ -144,7 +144,7 @@ git log --oneline --graph --all
 
 ---
 
-## 🔹 11. Windows Tips
+##  11. Windows Tips
 
 - Use Git Bash for `.sh` files  
 - Use PowerShell for `.ps1` files  
@@ -156,7 +156,7 @@ Set-ExecutionPolicy RemoteSigned
 
 ---
 
-## ⚡ Emergency Commands
+##  Emergency Commands
 
 ```bash
 git status
