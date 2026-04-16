@@ -1,4 +1,4 @@
-# 🧠 Git Katas Cheat Sheet (Personal Reference)
+# Git Katas Cheat Sheet (Personal Reference)
 
 ---
 
